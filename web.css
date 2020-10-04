@@ -1,0 +1,67 @@
+.ma
+{
+    color:white;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.ma:hover{
+    color:white;
+    text-decoration: none;
+}
+.container
+{
+    background-color: #0095d4;
+}
+.q
+{
+    font-size: 23px;
+}
+.hrt
+{
+    height:32px;
+    width:34px;
+}
+.hrtt
+{
+    height: 87px;
+width: 163px
+}
+.fo
+{
+    border:none;
+}
+.bt
+{
+    font-size: 13px;
+    border:none;
+}
+.l
+{
+    color:white;
+    cursor: pointer;
+    font-size: 17px;
+}
+.l:hover
+{
+    color: white;
+    background-color: skyblue;
+}
+.lo 
+{
+font-size: 30px;
+color:black;
+}
+.ep 
+{
+    border-top:0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 1px solid grey;
+}
+.f 
+{
+    font-size: 13px;
+}
+i{
+    color:white;
+}
