@@ -37,14 +37,12 @@ width: 163px
 }
 .l
 {
-    color:white;
     cursor: pointer;
     font-size: 17px;
 }
 .l:hover
 {
-    color: white;
-    background-color: skyblue;
+background-color: blue;
 }
 .lo 
 {
@@ -65,3 +63,14 @@ color:black;
 i{
     color:white;
 }
+.navbar-nav li:hover .dropdown-menu {
+        display: inline;
+    }
+.dropdown-toggle::after{
+        content:none;
+    }
+    .s
+    {
+        background-color: #0095d4;
+    }
+    
